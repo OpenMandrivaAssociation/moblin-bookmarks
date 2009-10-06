@@ -2,7 +2,7 @@ Name:           moblin-bookmarks
 Version:        2
 Release:        %mkrel 1
 Summary:        Moblin bookmarks
-Group:          Applications/Internet
+Group:          Networking/WWW
 License:        GFDL
 URL:            http://moblin.org/
 Source0:        default-bookmarks.html
