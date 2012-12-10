@@ -34,3 +34,16 @@ install -p -m 644 %{SOURCE0} $RPM_BUILD_ROOT%{_datadir}/bookmarks
 %defattr(-,root,root,-)
 %dir %{_datadir}/bookmarks
 %{_datadir}/bookmarks/default-bookmarks.html
+
+
+%changelog
+* Fri Dec 10 2010 Oden Eriksson <oeriksson@mandriva.com> 2-2mdv2011.0
++ Revision: 620375
+- the mass rebuild of 2010.0 packages
+
+* Wed Oct 07 2009 Olivier Blin <oblin@mandriva.com> 2-1mdv2010.0
++ Revision: 455346
+- fix group
+- initial import (based on Moblin package)
+- Created package structure for moblin-bookmarks.
+
