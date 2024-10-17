@@ -4,7 +4,7 @@ Release:        %mkrel 2
 Summary:        Moblin bookmarks
 Group:          Networking/WWW
 License:        GFDL
-URL:            http://moblin.org/
+URL:            https://moblin.org/
 Source0:        default-bookmarks.html
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildArch:      noarch
